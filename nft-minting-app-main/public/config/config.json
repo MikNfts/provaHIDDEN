@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92C5C5414bb39c869b5793E9245bCbc5957a174f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/",
+  "NETWORK": {
+    "NAME": "RinkebyETH",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Hidden Turtles",
+  "SYMBOL": "HIDDEN",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/HIDDEN_PRV",
+  "SHOW_BACKGROUND": true
+}
